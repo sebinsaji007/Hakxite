@@ -41,7 +41,7 @@
 
 
 const MODEL_NAME = 'gemini-1.0-pro';
-const API_KEY = 'AIzaSyB6_KTRV8d3jAd9-iMhiuBCsBM9ej-Cgtk'; // Replace with your actual API key
+const API_KEY = ''; // Replace with your actual API key
 ```
 
 
